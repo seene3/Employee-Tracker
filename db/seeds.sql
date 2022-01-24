@@ -12,9 +12,9 @@ VALUES
     ('Software Engineer', 80,000),
     ('Lead Engineer', 100,000),
     ('Accountant', 80,000),
-    ('Lead Accountant', 100,000),
+    ('Account Manager', 100,000),
     ('Lawyer', 90,000),
-    ('Lead lawyer', 100,000);
+    ('Legal Team Lead', 100,000);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
     ('John', 'Doe', 1, 2),
