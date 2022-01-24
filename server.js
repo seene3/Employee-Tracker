@@ -71,4 +71,18 @@ const init = async () => {
     };
 }
 
+const employeeView = async () => {
+    
+
+    init();
+}
+
+const departmentView = async () => {
+    
+}
+
+const roleView = async () => {
+    
+}
+
 init();
